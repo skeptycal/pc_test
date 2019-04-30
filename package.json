@@ -1,0 +1,28 @@
+{
+  "name": "pc_test",
+  "version": "1.0.1",
+  "description": "pre-commit deployment automation",
+  "main": "pc",
+  "scripts": {
+    "test": "pc init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skeptycal/pc_test.git"
+  },
+  "keywords": [
+    "pre-commit",
+    "deploy",
+    "ci",
+    "git",
+    "github",
+    "continuous",
+    "netlify"
+  ],
+  "author": "Michael Treanor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skeptycal/pc_test/issues"
+  },
+  "homepage": "https://github.com/skeptycal/pc_test#readme"
+}
